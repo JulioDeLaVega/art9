@@ -133,7 +133,7 @@ function App() {
       <br></br>
       <p>There is a probability of {100 - risk}% that you are infringing the GDPR.</p>
       <br></br>
-      
+
   <InputGroup className="mb-3">
     <InputGroup.Text id="basic-addon3" >
       Your global turnover (in euros)
@@ -146,7 +146,6 @@ function App() {
   <p style={{color:"grey"}}>Regarding the compliance level, we consider that fulfilling one exception does not prevent you from an infringement. We therefore grant an 80% compliance level as soon as you check at least one exception. If you check several, then the compliance level increases. </p>
 
   <p style={{color:"grey"}}>Regarding the fine, the GDPR imposes a fine of 2% on the global turnover for any infringement of Article 9. We then multiply this figure by your risk exposure.</p>
-      
       
       </div>
 
