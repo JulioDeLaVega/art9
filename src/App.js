@@ -58,7 +58,7 @@ function App() {
       <h1>GDPR Article 9</h1>
       
 
-      <a href="https://gdpr-info.eu/art-9-gdpr/" target="_blank"><FontAwesomeIcon icon={faGithub} style={{marginRight:"1em"}}  /></a>
+      <a href="https://github.com/JulioDeLaVega/art9/tree/master" target="_blank"><FontAwesomeIcon icon={faGithub} style={{marginRight:"1em"}}  /></a>
       <a href="https://gdpr-info.eu/art-9-gdpr/" target="_blank"><FontAwesomeIcon icon={faLink}  /></a>
 
 
