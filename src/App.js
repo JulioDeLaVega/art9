@@ -48,7 +48,7 @@ function App() {
     
 
     if (score >= 1){ 
-      var final_score = Math.round(70 + ((score/9)*20) + score_dpia*25)
+      var final_score = Math.round(70 + ((score/9)*20) + score_dpia*27)
       if (final_score > 100){setRisk(100) }
       else(setRisk(final_score))
       
